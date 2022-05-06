@@ -9,12 +9,12 @@
     "Survived": "已招募",
     "Sex": "建立信任",
     "Age": "流失",
-    "value": 15
+    "value": 4
   },
   {
     "Survived": "已招募",
     "Sex": "未转化",
     "Age": "未转化",
-    "value": 37
+    "value": 15
   }
 ]

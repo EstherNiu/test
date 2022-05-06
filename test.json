@@ -1,22 +1,22 @@
 [
   {
-    "Survived": "Perished",
-    "Sex": "Male",
-    "Age": "Adult",
+    "Survived": "已招募",
+    "Sex": "建立信任",
+    "Age": "长期互动",
     "Class": "Crew",
     "value": 670
   },
   {
-    "Survived": "Perished",
-    "Sex": "Male",
-    "Age": "Adult",
+    "Survived": "已招募",
+    "Sex": "未转化",
+    "Age": "未转化",
     "Class": "Third Class",
     "value": 387
   },
   {
-    "Survived": "Perished",
-    "Sex": "Male",
-    "Age": "Adult",
+    "Survived": "未招募",
+    "Sex": "未招募",
+    "Age": "为招募",
     "Class": "Second Class",
     "value": 154
   },

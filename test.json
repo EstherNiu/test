@@ -1,18 +1,18 @@
 [
   {
-    "Survived": "已招募",
-    "Sex": "建立信任",
+    "Survived": "建立联系",
+    "Sex": "招募成功",
     "Age": "长期互动",
     "value": 20
   },
    {
-    "Survived": "已招募",
-    "Sex": "建立信任",
+    "Survived": "建立联系",
+    "Sex": "招募成功",
     "Age": "流失",
     "value": 4
   },
   {
-    "Survived": "已招募",
+    "Survived": "建立联系",
     "Sex": "未转化",
     "Age": "未转化",
     "value": 15

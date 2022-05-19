@@ -3,7 +3,7 @@
     "Survived": "较多患者量(每月>10)",
     "Sex": "感兴趣",
     "Age": "注册JPRO",
-    "value": 5
+    "value": 10
   },
     {
     "Survived": "较多患者量(每月>10)",
@@ -15,7 +15,7 @@
     "Survived": "较多患者量(每月>10)",
     "Sex": "行动",
     "Age": "注册JPRO",
-    "value": 5
+    "value": 15
   },
        {
     "Survived": "较多患者量(每月>10)",
@@ -39,7 +39,7 @@
     "Survived": "中等患者量(每月3-5)",
     "Sex": "感兴趣",
     "Age": "注册JPRO",
-    "value": 20
+    "value": 5
   },
    {
     "Survived": "中等患者量(每月3-5)",
@@ -63,7 +63,7 @@
     "Survived": "中等患者量(每月3-5)",
     "Sex": "未知",
     "Age": "注册JPRO",
-    "value": 1
+    "value": 0
   },
   {
     "Survived": "中等患者量(每月3-5)",
@@ -87,7 +87,7 @@
     "Survived": "较少患者量(每月0-2)",
     "Sex": "行动",
     "Age": "注册JPRO",
-    "value": 1
+    "value": 0
   },
     {
     "Survived": "较少患者量(每月0-2)",

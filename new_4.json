@@ -15,7 +15,7 @@
     "Survived": "较多患者量(每月>10)",
     "Sex": "行动",
     "Age": "注册JPRO",
-    "value": 15
+    "value": 9
   },
        {
     "Survived": "较多患者量(每月>10)",
@@ -27,13 +27,13 @@
     "Survived": "较多患者量(每月>10)",
     "Sex": "未知",
     "Age": "注册JPRO",
-    "value": 1
+    "value": 0
   },
       {
     "Survived": "较多患者量(每月>10)",
     "Sex": "未知",
     "Age": "未注册JPRO",
-    "value": 2
+    "value": 0
   },
    {
     "Survived": "中等患者量(每月3-5)",

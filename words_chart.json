@@ -1,0 +1,32 @@
+[
+  {
+    "x": "非小细胞肺癌",
+    "value": 1383220000,
+    "category": "asia"
+  },
+  {
+    "x": "心力衰竭",
+    "value": 1316000000,
+    "category": "asia"
+  },
+  {
+    "x": "呼吸不畅",
+    "value": 324982000,
+    "category": "america"
+  },
+  {
+    "x": "Product A",
+    "value": 263510000,
+    "category": "asia"
+  },
+  {
+    "x": "术式分类B",
+    "value": 207505000,
+    "category": "america"
+  },
+  {
+    "x": "AIChatbot学习",
+    "value": 196459000,
+    "category": "asia"
+  }
+]
